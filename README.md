@@ -21,4 +21,6 @@ in a nutshell all this means the section title of the blog will be the inner blo
 used to show the minified version of the whole content,  <pre>full.md</pre> is the file
 used to show the whole content , btw you can include links , images, and all markdown stuff
 you can go to <pre>/blog-content</pre> and create a new file , <pre>/blog-content-title/desc.md</pre> 
-> in <pre>/blog-content-title/desc.md</pre> you add de description of the blog plus an image representing it!  :zap: :boom: :fire:
+
+> psst, in
+> <pre>/blog-content-title/desc.md</pre> you add de description of the blog plus an image representing it!  :zap: :boom: :fire:
