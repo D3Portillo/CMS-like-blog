@@ -24,3 +24,6 @@ you can go to <pre>/blog-content</pre> and create a new file , <pre>/blog-conten
 
 > psst, in
 > <pre>/blog-content-title/desc.md</pre> you add de description of the blog plus an image representing it!  :zap: :boom: :fire:
+
+## Pic
+![](https://raw.githubusercontent.com/D3Portillo/CMS-like-blog/master/Screenshot_2018-09-11%20D3Portillo%20CMS-like-blog.png)
